@@ -1,0 +1,92 @@
+[
+  {
+    "module": "Frontend",
+    "submodules": [
+      {
+        "title": "User Dashboard",
+        "description": "An intuitive interface where users can view their impact tokens, track funding projects, and monitor their contributions in real-time. The dashboard provides insights into the social and environmental impact of their investments.",
+        "selected": true
+      },
+      {
+        "title": "Project Listings",
+        "description": "A comprehensive display of available projects seeking funding, complete with detailed descriptions, funding goals, timelines, and impact metrics. Users can filter projects based on categories, impact areas, and funding needs.",
+        "selected": true
+      },
+      {
+        "title": "Token Management",
+        "description": "A dedicated section for users to manage their tokens, including buying, selling, and transferring tokens. This module ensures secure transactions and provides users with a clear overview of their token balance and transaction history.",
+        "selected": true
+      },
+      {
+        "title": "Impact Reports",
+        "description": "Generates detailed reports showcasing the impact of funded projects. Users can view metrics such as the number of beneficiaries reached, environmental benefits achieved, and overall project success stories.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Backend",
+    "submodules": [
+      {
+        "title": "Blockchain Integration",
+        "description": "Utilizes blockchain technology to ensure transparency and security in token transactions. This module manages the creation, distribution, and tracking of impact tokens, ensuring that all transactions are immutable and verifiable.",
+        "selected": true
+      },
+      {
+        "title": "API Development",
+        "description": "Creates RESTful APIs that facilitate communication between the frontend and backend systems. These APIs handle user authentication, project data retrieval, token transactions, and impact reporting, ensuring seamless user experiences.",
+        "selected": true
+      },
+      {
+        "title": "Database Management",
+        "description": "Designs and maintains a robust database that stores user profiles, project details, transaction histories, and impact metrics. This module ensures data integrity, security, and efficient retrieval of information.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Tokenization Mechanism",
+    "submodules": [
+      {
+        "title": "Token Creation",
+        "description": "Defines the process for creating impact tokens that represent a stake in funded projects. This module outlines the criteria for token issuance, including project validation and funding thresholds.",
+        "selected": true
+      },
+      {
+        "title": "Token Exchange",
+        "description": "Facilitates a marketplace for users to buy, sell, or trade impact tokens. This module ensures fair pricing, liquidity, and provides users with tools to evaluate token value based on project performance.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Impact Assessment",
+    "submodules": [
+      {
+        "title": "Impact Metrics Definition",
+        "description": "Establishes clear metrics for measuring the social and environmental impact of funded projects. This module collaborates with project owners to define success criteria and reporting standards.",
+        "selected": true
+      },
+      {
+        "title": "Monitoring & Evaluation",
+        "description": "Implements a system for ongoing monitoring and evaluation of funded projects. This module collects data on project outcomes, ensuring that users receive accurate and timely updates on the impact of their contributions.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Admin Panel",
+    "submodules": [
+      {
+        "title": "User Management",
+        "description": "Provides administrators with tools to manage user accounts, including verification, permissions, and roles. This module ensures a secure environment for users and maintains the integrity of the platform.",
+        "selected": true
+      },
+      {
+        "title": "Project Oversight",
+        "description": "Allows administrators to review and approve project submissions, ensuring that only credible and impactful projects are listed on the platform. This module includes tools for monitoring project progress and compliance with impact metrics.",
+        "selected": true
+      }
+    ]
+  }
+]
